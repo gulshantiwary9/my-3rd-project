@@ -1,0 +1,9 @@
+#ptag{
+    border: 1px solid green;
+    width: 50%;
+    margin: 50px;
+    padding: 20px;
+    background-color: yellowgreen;
+    box-shadow:-10px 15px 15px 3px grey;
+    -ms-high-contrast-adjust: auto;
+}
